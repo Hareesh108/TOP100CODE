@@ -16,6 +16,7 @@ int main()
             cout << "Not prime" <<endl;
             break;
         }
+        
     }
     if (i==number)
     {
